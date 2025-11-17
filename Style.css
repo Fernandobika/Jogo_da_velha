@@ -1,0 +1,16 @@
+body{
+  font-family:Arial: sant-serif;
+  display:flex;
+  flex-direction:column;
+  Align-items:center;
+  background-color:#f0f1f1;
+  margin:20px;
+}
+
+h1{
+  color:Black;
+}  
+
+.game-container{
+  display:grid;
+  grid-template-rowd: repeat(3 10px;
